@@ -7,10 +7,10 @@ Interactive E-Commerce Sales Performance Dashboard using Power BI | 4th Semester
 **April 2026**
 
 ## Team Members
-- Yash Sharma (24BCS11074) – Project Lead  
-- Jainoor Singh Saini (24BCS10162) – Co-Lead & Data Modeler  
+- Jainoor Singh Saini (24BCS10162) – Project Lead  
+- Vansh Saini (24BCS10593) – Co-Lead & Data Modeler  
 - Lovish Bansal (24BCS10273) – Visualization Specialist  
-- Vansh Saini (24BCS10593) – Research & Documentation
+- Yash Sharma (24BCS11074) – Research & Documentation
 
 ## Project Overview
 An interactive Power BI dashboard that analyzes 3,500+ e-commerce sales records (2022–2024) to provide real-time insights on sales, profit, regional performance, and product-wise trends. The dashboard helps business stakeholders make data-driven decisions.
