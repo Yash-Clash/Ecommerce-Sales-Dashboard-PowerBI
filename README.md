@@ -2,7 +2,7 @@
 Interactive E-Commerce Sales Performance Dashboard using Power BI | 4th Semester Project - Chandigarh University (April 2026)
 
 
-**Final Year Project**  
+**Second Year Project**  
 **Chandigarh University**  
 **April 2026**
 
@@ -43,8 +43,6 @@ An interactive Power BI dashboard that analyzes 3,500+ e-commerce sales records 
 2. Open it in Power BI Desktop (free)
 3. Explore all pages and interact with slicers
 
-## Screenshots
-(Images will appear here automatically once uploaded)
 
 ## Future Enhancements
 - Predictive sales forecasting
