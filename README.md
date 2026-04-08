@@ -38,6 +38,9 @@ An interactive Power BI dashboard that analyzes 3,500+ e-commerce sales records 
 - `/Screenshots` → All dashboard pages
 - `/DAX_Measures.md` → All custom DAX calculations
 
+## Screenshots
+- All dashboard pages
+
 ## How to Use
 1. Download the `.pbix` file from `/PowerBI`
 2. Open it in Power BI Desktop (free)
