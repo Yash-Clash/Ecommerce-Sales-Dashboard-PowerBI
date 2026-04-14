@@ -36,7 +36,6 @@ An interactive Power BI dashboard that analyzes 3,500+ e-commerce sales records 
 - `/Data` → Raw dataset
 - `/PowerBI` → Main .pbix file
 - `/Screenshots` → All dashboard pages
-- `/DAX_Measures.md` → All custom DAX calculations
 
 ## Screenshots
 - All dashboard pages
